@@ -9,4 +9,6 @@ def secondLargetElement(arr):
     return arr[1]
 
 arr = [3, 1, 4, 1, 5, 9, 2, 6]
+arr1 = [30, 1, 4, 1, 15, 9, 2, 6]
+print(secondLargetElement(arr1))
 print(secondLargetElement(arr))
